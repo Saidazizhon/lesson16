@@ -1,0 +1,55 @@
+{
+  "organization": [
+    {
+      "key": 40,
+      "companyName": "Najot Talim",
+      "inn": "222333658",
+      "status": "1",
+      "regionId": "1",
+      "address": "Chilonzor 9kv",
+      "createdAt": "2018-11-01",
+      "id": "1"
+    },
+    {
+      "key": 50,
+      "companyName": "HardWork",
+      "inn": "112333658",
+      "status": "2",
+      "regionId": "2",
+      "address": "Chilonzor 9kv",
+      "createdAt": "2015-11-07",
+      "id": "2"
+    },
+    {
+      "id": "183a",
+      "key": 64,
+      "companyName": "w",
+      "inn": "12345678",
+      "status": "2",
+      "regionId": 3,
+      "regionPlace": "Xorazm vilayati",
+      "address": "nlomi",
+      "createdAt": "2015-06-19"
+    },
+    {
+      "key": 17,
+      "companyName": "mohirjon",
+      "inn": "12345",
+      "status": "2",
+      "regionId": 2,
+      "address": "sw",
+      "createdAt": "2024-10-12",
+      "id": "48a9"
+    },
+    {
+      "key": 16,
+      "companyName": "1235u",
+      "inn": "123456789",
+      "status": "3",
+      "regionId": 2,
+      "address": "r45",
+      "createdAt": "2024-10-10",
+      "id": "7a4b"
+    }
+  ]
+}
